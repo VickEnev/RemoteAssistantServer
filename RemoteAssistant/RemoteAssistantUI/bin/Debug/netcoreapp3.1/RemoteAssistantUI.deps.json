@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RemoteAssistantUI/1.0.0": {
+        "dependencies": {
+          "ConnectionService": "1.0.0",
+          "Controllers": "1.0.0"
+        },
+        "runtime": {
+          "RemoteAssistantUI.dll": {}
+        }
+      },
+      "ConnectionService/1.0.0": {
+        "dependencies": {
+          "Mediator": "1.0.0"
+        },
+        "runtime": {
+          "ConnectionService.dll": {}
+        }
+      },
+      "Controllers/1.0.0": {
+        "dependencies": {
+          "Mediator": "1.0.0"
+        },
+        "runtime": {
+          "Controllers.dll": {}
+        }
+      },
+      "Mediator/1.0.0": {
+        "runtime": {
+          "Mediator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RemoteAssistantUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConnectionService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Controllers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mediator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

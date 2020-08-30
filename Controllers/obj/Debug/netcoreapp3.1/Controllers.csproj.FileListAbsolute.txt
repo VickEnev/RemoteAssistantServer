@@ -1,0 +1,14 @@
+C:\Users\Vick-PC\source\repos\MouseController\bin\Debug\netcoreapp3.1\Controllers.deps.json
+C:\Users\Vick-PC\source\repos\MouseController\bin\Debug\netcoreapp3.1\Controllers.dll
+C:\Users\Vick-PC\source\repos\MouseController\bin\Debug\netcoreapp3.1\Controllers.pdb
+C:\Users\Vick-PC\source\repos\MouseController\bin\Debug\netcoreapp3.1\Mediator.dll
+C:\Users\Vick-PC\source\repos\MouseController\bin\Debug\netcoreapp3.1\Mediator.pdb
+C:\Users\Vick-PC\source\repos\MouseController\obj\Debug\netcoreapp3.1\Controllers.csprojAssemblyReference.cache
+C:\Users\Vick-PC\source\repos\MouseController\obj\Debug\netcoreapp3.1\Controllers.AssemblyInfoInputs.cache
+C:\Users\Vick-PC\source\repos\MouseController\obj\Debug\netcoreapp3.1\Controllers.AssemblyInfo.cs
+C:\Users\Vick-PC\source\repos\MouseController\obj\Debug\netcoreapp3.1\Controllers.csproj.CoreCompileInputs.cache
+C:\Users\Vick-PC\source\repos\MouseController\obj\Debug\netcoreapp3.1\Controllers.csproj.CopyComplete
+C:\Users\Vick-PC\source\repos\MouseController\obj\Debug\netcoreapp3.1\Controllers.dll
+C:\Users\Vick-PC\source\repos\MouseController\obj\Debug\netcoreapp3.1\Controllers.pdb
+C:\Users\Vick-PC\source\repos\MouseController\bin\Debug\netcoreapp3.1\RemoteAssistantStorage.dll
+C:\Users\Vick-PC\source\repos\MouseController\bin\Debug\netcoreapp3.1\RemoteAssistantStorage.pdb

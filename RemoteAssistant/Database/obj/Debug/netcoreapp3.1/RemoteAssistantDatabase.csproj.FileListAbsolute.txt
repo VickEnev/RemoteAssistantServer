@@ -1,0 +1,17 @@
+C:\Users\Vick-PC\source\repos\RemoteAssistant\Database\bin\Debug\netcoreapp3.1\RemoteAssistantDatabase.deps.json
+C:\Users\Vick-PC\source\repos\RemoteAssistant\Database\bin\Debug\netcoreapp3.1\RemoteAssistantDatabase.dll
+C:\Users\Vick-PC\source\repos\RemoteAssistant\Database\obj\Debug\netcoreapp3.1\RemoteAssistantDatabase.AssemblyInfoInputs.cache
+C:\Users\Vick-PC\source\repos\RemoteAssistant\Database\obj\Debug\netcoreapp3.1\RemoteAssistantDatabase.AssemblyInfo.cs
+C:\Users\Vick-PC\source\repos\RemoteAssistant\Database\bin\Debug\netcoreapp3.1\Controllers.dll
+C:\Users\Vick-PC\source\repos\RemoteAssistant\Database\bin\Debug\netcoreapp3.1\Mediator.dll
+C:\Users\Vick-PC\source\repos\RemoteAssistant\Database\bin\Debug\netcoreapp3.1\Controllers.pdb
+C:\Users\Vick-PC\source\repos\RemoteAssistant\Database\bin\Debug\netcoreapp3.1\Mediator.pdb
+C:\Users\Vick-PC\source\repos\RemoteAssistant\Database\obj\Debug\netcoreapp3.1\RemoteAssistantDatabase.csprojAssemblyReference.cache
+C:\Users\Vick-PC\source\repos\RemoteAssistant\Database\obj\Debug\netcoreapp3.1\RemoteAssistantDatabase.csproj.CopyComplete
+C:\Users\Vick-PC\source\repos\RemoteAssistant\Database\bin\Debug\netcoreapp3.1\RemoteAssistantDatabase.runtimeconfig.json
+C:\Users\Vick-PC\source\repos\RemoteAssistant\Database\bin\Debug\netcoreapp3.1\RemoteAssistantDatabase.runtimeconfig.dev.json
+C:\Users\Vick-PC\source\repos\RemoteAssistant\Database\bin\Debug\netcoreapp3.1\RemoteAssistantDatabase.pdb
+C:\Users\Vick-PC\source\repos\RemoteAssistant\Database\obj\Debug\netcoreapp3.1\RemoteAssistantDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Vick-PC\source\repos\RemoteAssistant\Database\obj\Debug\netcoreapp3.1\RemoteAssistantDatabase.dll
+C:\Users\Vick-PC\source\repos\RemoteAssistant\Database\obj\Debug\netcoreapp3.1\RemoteAssistantDatabase.pdb
+C:\Users\Vick-PC\source\repos\RemoteAssistant\Database\obj\Debug\netcoreapp3.1\RemoteAssistantDatabase.genruntimeconfig.cache

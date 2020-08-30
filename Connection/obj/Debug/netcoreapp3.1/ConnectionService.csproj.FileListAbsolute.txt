@@ -1,0 +1,12 @@
+C:\Users\Vick-PC\source\repos\ConnectionServicee\bin\Debug\netcoreapp3.1\ConnectionService.deps.json
+C:\Users\Vick-PC\source\repos\ConnectionServicee\bin\Debug\netcoreapp3.1\ConnectionService.dll
+C:\Users\Vick-PC\source\repos\ConnectionServicee\bin\Debug\netcoreapp3.1\ConnectionService.pdb
+C:\Users\Vick-PC\source\repos\ConnectionServicee\bin\Debug\netcoreapp3.1\Mediator.dll
+C:\Users\Vick-PC\source\repos\ConnectionServicee\bin\Debug\netcoreapp3.1\Mediator.pdb
+C:\Users\Vick-PC\source\repos\ConnectionServicee\obj\Debug\netcoreapp3.1\ConnectionService.csprojAssemblyReference.cache
+C:\Users\Vick-PC\source\repos\ConnectionServicee\obj\Debug\netcoreapp3.1\ConnectionService.AssemblyInfoInputs.cache
+C:\Users\Vick-PC\source\repos\ConnectionServicee\obj\Debug\netcoreapp3.1\ConnectionService.AssemblyInfo.cs
+C:\Users\Vick-PC\source\repos\ConnectionServicee\obj\Debug\netcoreapp3.1\ConnectionService.csproj.CopyComplete
+C:\Users\Vick-PC\source\repos\ConnectionServicee\obj\Debug\netcoreapp3.1\ConnectionService.dll
+C:\Users\Vick-PC\source\repos\ConnectionServicee\obj\Debug\netcoreapp3.1\ConnectionService.pdb
+C:\Users\Vick-PC\source\repos\ConnectionServicee\obj\Debug\netcoreapp3.1\ConnectionService.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+C:\Users\Vick-PC\source\repos\MediatorInterfaces\bin\Debug\netcoreapp3.1\Mediator.deps.json
+C:\Users\Vick-PC\source\repos\MediatorInterfaces\bin\Debug\netcoreapp3.1\Mediator.dll
+C:\Users\Vick-PC\source\repos\MediatorInterfaces\bin\Debug\netcoreapp3.1\Mediator.pdb
+C:\Users\Vick-PC\source\repos\MediatorInterfaces\obj\Debug\netcoreapp3.1\Mediator.csprojAssemblyReference.cache
+C:\Users\Vick-PC\source\repos\MediatorInterfaces\obj\Debug\netcoreapp3.1\Mediator.AssemblyInfoInputs.cache
+C:\Users\Vick-PC\source\repos\MediatorInterfaces\obj\Debug\netcoreapp3.1\Mediator.AssemblyInfo.cs
+C:\Users\Vick-PC\source\repos\MediatorInterfaces\obj\Debug\netcoreapp3.1\Mediator.dll
+C:\Users\Vick-PC\source\repos\MediatorInterfaces\obj\Debug\netcoreapp3.1\Mediator.pdb
+C:\Users\Vick-PC\source\repos\MediatorInterfaces\obj\Debug\netcoreapp3.1\Mediator.csproj.CoreCompileInputs.cache

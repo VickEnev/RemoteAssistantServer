@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MouseController/1.0.0": {
+        "dependencies": {
+          "Mediator": "1.0.0"
+        },
+        "runtime": {
+          "MouseController.dll": {}
+        }
+      },
+      "Mediator/1.0.0": {
+        "runtime": {
+          "Mediator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MouseController/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mediator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Vick-PC\source\repos\RemoteAssistant\Database\bin\Release\netcoreapp3.1\RemoteAssistantStorage.deps.json
+C:\Users\Vick-PC\source\repos\RemoteAssistant\Database\bin\Release\netcoreapp3.1\RemoteAssistantStorage.runtimeconfig.json
+C:\Users\Vick-PC\source\repos\RemoteAssistant\Database\bin\Release\netcoreapp3.1\RemoteAssistantStorage.runtimeconfig.dev.json
+C:\Users\Vick-PC\source\repos\RemoteAssistant\Database\bin\Release\netcoreapp3.1\RemoteAssistantStorage.dll
+C:\Users\Vick-PC\source\repos\RemoteAssistant\Database\bin\Release\netcoreapp3.1\RemoteAssistantStorage.pdb
+C:\Users\Vick-PC\source\repos\RemoteAssistant\Database\bin\Release\netcoreapp3.1\Mediator.dll
+C:\Users\Vick-PC\source\repos\RemoteAssistant\Database\bin\Release\netcoreapp3.1\Mediator.pdb
+C:\Users\Vick-PC\source\repos\RemoteAssistant\Database\obj\Release\netcoreapp3.1\RemoteAssistantStorage.csprojAssemblyReference.cache
+C:\Users\Vick-PC\source\repos\RemoteAssistant\Database\obj\Release\netcoreapp3.1\RemoteAssistantStorage.AssemblyInfoInputs.cache
+C:\Users\Vick-PC\source\repos\RemoteAssistant\Database\obj\Release\netcoreapp3.1\RemoteAssistantStorage.AssemblyInfo.cs
+C:\Users\Vick-PC\source\repos\RemoteAssistant\Database\obj\Release\netcoreapp3.1\RemoteAssistantStorage.csproj.CoreCompileInputs.cache
+C:\Users\Vick-PC\source\repos\RemoteAssistant\Database\obj\Release\netcoreapp3.1\RemoteAssistantStorage.csproj.CopyComplete
+C:\Users\Vick-PC\source\repos\RemoteAssistant\Database\obj\Release\netcoreapp3.1\RemoteAssistantStorage.dll
+C:\Users\Vick-PC\source\repos\RemoteAssistant\Database\obj\Release\netcoreapp3.1\RemoteAssistantStorage.pdb
+C:\Users\Vick-PC\source\repos\RemoteAssistant\Database\obj\Release\netcoreapp3.1\RemoteAssistantStorage.genruntimeconfig.cache

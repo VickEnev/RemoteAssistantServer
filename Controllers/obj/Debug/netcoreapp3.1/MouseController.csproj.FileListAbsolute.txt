@@ -1,0 +1,12 @@
+C:\Users\Vick-PC\source\repos\MouseController\bin\Debug\netcoreapp3.1\MouseController.deps.json
+C:\Users\Vick-PC\source\repos\MouseController\bin\Debug\netcoreapp3.1\MouseController.dll
+C:\Users\Vick-PC\source\repos\MouseController\bin\Debug\netcoreapp3.1\MouseController.pdb
+C:\Users\Vick-PC\source\repos\MouseController\bin\Debug\netcoreapp3.1\Mediator.dll
+C:\Users\Vick-PC\source\repos\MouseController\bin\Debug\netcoreapp3.1\Mediator.pdb
+C:\Users\Vick-PC\source\repos\MouseController\obj\Debug\netcoreapp3.1\MouseController.csprojAssemblyReference.cache
+C:\Users\Vick-PC\source\repos\MouseController\obj\Debug\netcoreapp3.1\MouseController.AssemblyInfoInputs.cache
+C:\Users\Vick-PC\source\repos\MouseController\obj\Debug\netcoreapp3.1\MouseController.AssemblyInfo.cs
+C:\Users\Vick-PC\source\repos\MouseController\obj\Debug\netcoreapp3.1\MouseController.csproj.CopyComplete
+C:\Users\Vick-PC\source\repos\MouseController\obj\Debug\netcoreapp3.1\MouseController.dll
+C:\Users\Vick-PC\source\repos\MouseController\obj\Debug\netcoreapp3.1\MouseController.pdb
+C:\Users\Vick-PC\source\repos\MouseController\obj\Debug\netcoreapp3.1\MouseController.csproj.CoreCompileInputs.cache
